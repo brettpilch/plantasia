@@ -693,7 +693,7 @@ Ppar([
 	~bass,
 	~trumpet,
 	~brass
-]).record("/Users/brettpilch/Desktop/recordings/plantasia.wav", "WAV");
+]).play(quant: ~measure); //.record("/Users/brettpilch/Desktop/recordings/plantasia.wav", "WAV");
 )
 
 // .play(quant: ~measure); //
